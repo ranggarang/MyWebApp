@@ -1,0 +1,10 @@
+.vs/
+MyWebApp.Core.Tests/bin/
+MyWebApp.Core/bin/
+MyWebApp.Core.Tests/obj/
+MyWebApp.Core/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+MyWebApp.Core/obj/
+MyWebApp.Infrastructure/bin/
+MyWebApp/bin/
+MyWebApp/obj/
+MyWebApp.Infrastructure/obj/
